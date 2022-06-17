@@ -14,4 +14,4 @@ jobs:
           name: The Second Step
           command: |
             ls -al
-            echo '^^^The files in your repo^^^'
+            echo '^^^^The files in your repo^^^^'
